@@ -1,0 +1,36 @@
+body{
+	background:#62E0FF;
+}
+
+h1{
+	font-family:"Bookman Old Style";
+	font-weight:400px;
+	color:white;
+	-webkit-text-fill-color:white;
+	-webkit-text-stroke:1.2px;
+	-webkit-text-stroke-color:black;
+}
+
+h2{
+	font-family:"Bookman Old Style";
+	font-weight:200px;
+	color:white;
+	-webkit-text-fill-color:white;
+	-webkit-text-stroke:1px;
+	-webkit-text-stroke-color:black;
+}
+
+
+ul{
+	font-family:"Bookman Old Style";
+	font-weight:normal;
+	color:white;
+	-webkit-text-fill-color:black;
+	-webkit-text-stroke:0.5px;
+	-webkit-text-stroke-color:white;
+}
+
+
+p{
+	font-family:"Consolas";
+}

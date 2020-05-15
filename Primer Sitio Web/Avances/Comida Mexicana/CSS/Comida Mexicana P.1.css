@@ -1,0 +1,56 @@
+h1{
+	font-weight: Bold;
+}
+h2{
+	font-size: 27px;
+}
+h3{
+	font-size: 20px;
+}
+h4{
+	font-size: 18px;
+}
+
+body{
+	background:#226E3B;
+}
+
+h1 {
+	font-family:"Bookman Old Style";
+	font-weight:200px;
+	color:white;
+	-webkit-text-fill-color:white;
+	-webkit-text-stroke:1px;
+	-webkit-text-stroke-color:black;
+}
+
+h2 {
+	font-family:"Bookman Old Style";
+	font-weight:200px;
+	color:white;
+	-webkit-text-fill-color:white;
+	-webkit-text-stroke:0.8px;
+	-webkit-text-stroke-color:black;
+}	
+
+h3 {
+	font-family:"Bookman Old Style";
+	font-weight:200px;
+	color:white;
+	-webkit-text-fill-color:white;
+	-webkit-text-stroke:0.8px;
+	-webkit-text-stroke-color:black;
+}
+
+ul{
+	font-family:"Bookman Old Style";
+	font-weight:200px;
+	color:white;
+	-webkit-text-fill-color:white;
+	-webkit-text-stroke:0.9px;
+	-webkit-text-stroke-color:black;
+}
+
+ol{
+	font-family:"Consolas";
+}
